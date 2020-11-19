@@ -27,4 +27,4 @@ class Example extends Component {
 
 ## License
 
-GPL-2.0-or-later © [kienstra](https://github.com/kienstra)
+GPL-2.0-or-later
