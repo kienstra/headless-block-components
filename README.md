@@ -13,16 +13,7 @@ npm install --save headless-block-components
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
-
-import MyComponent from 'headless-block-components'
-import 'headless-block-components/dist/index.css'
-
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
-}
+import * as BlockComponents from 'headless-block-components'
 ```
 
 ## License
