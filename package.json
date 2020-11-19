@@ -1,6 +1,6 @@
 {
   "name": "headless-block-components",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Block components for the WordPress block editor and headless.",
   "author": "kienstra",
   "license": "GPL-2.0-or-later",
@@ -29,7 +29,6 @@
   },
   "devDependencies": {
     "@wordpress/i18n": "3.16.0",
-    "babel-eslint": "10.0.3",
     "cross-env": "7.0.2",
     "eslint": "6.8.0",
     "eslint-config-prettier": "6.7.0",
