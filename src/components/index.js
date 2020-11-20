@@ -1,6 +1,8 @@
-import { Example } from './example'
+import { default as Example } from './example'
 
 const namespace = 'genesis-custom-blocks'
-export default {
+const blockComponents = {
   [`${namespace}/example`]: Example
 }
+
+export default blockComponents;
