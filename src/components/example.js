@@ -10,8 +10,8 @@ import { __ } from '@wordpress/i18n'
 
 /**
  * @typedef {Object} ExampleProps
- * @property {Object} attributes The block attributes available in the block editor.
- * @property {Object} attrs The block attributes available on the front-end.
+ * @property {Object} [attrs] The block attributes available on the front-end.
+ * @property {Object} [attributes] The block attributes available in the block editor.
  */
 
 /**
