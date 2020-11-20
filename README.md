@@ -13,7 +13,7 @@ npm install --save headless-block-components
 ## Usage
 
 ```jsx
-import * as BlockComponents from 'headless-block-components'
+import { blockComponents } from 'headless-block-components';
 ```
 
 ## License
