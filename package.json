@@ -1,6 +1,6 @@
 {
   "name": "headless-block-components",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Block components for the WordPress block editor and headless.",
   "author": "kienstra",
   "license": "GPL-2.0-or-later",
@@ -50,5 +50,13 @@
   },
   "files": [
     "dist"
+  ],
+  "contributors": [
+    {
+      "name": "Ryan Kienstra"
+    },
+    {
+      "name": "Phil Johnston"
+    }
   ]
 }
