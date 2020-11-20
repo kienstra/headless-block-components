@@ -21,7 +21,7 @@ import { __ } from '@wordpress/i18n'
  * @return {React.ReactElement} An example preview component.
  */
 const Example = (props) => {
-  const attributes = props.attrs ? props.attrs : props.attributes;
+  const attributes = props.attrs ? props.attrs : props.attributes
 
   return (
     <div>
@@ -34,7 +34,7 @@ const Example = (props) => {
       </p>
       <p>{attributes['new-field']}</p>
     </div>
-  );
+  )
 }
 
 export default Example
