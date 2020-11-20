@@ -1,6 +1,6 @@
 {
   "name": "headless-block-components",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Block components for the WordPress block editor and headless.",
   "author": "kienstra",
   "license": "GPL-2.0-or-later",
@@ -25,7 +25,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "16.0.0"
+    "react": "16.13.1"
   },
   "devDependencies": {
     "@wordpress/i18n": "3.16.0",
@@ -50,5 +50,13 @@
   },
   "files": [
     "dist"
+  ],
+  "contributors": [
+    {
+      "name": "Ryan Kienstra"
+    },
+    {
+      "name": "Phil Johnston"
+    }
   ]
 }
